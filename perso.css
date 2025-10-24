@@ -1,0 +1,31 @@
+body{
+    background-image: url("gresiement.gif");
+}
+#boxtext{
+    margin-left:10%;
+    margin-top:5%;
+    margin-right:10%;
+    background-color:black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    padding: 3%;
+    border-radius: 15px;
+    border: 1px solid white;
+}
+#boxtext:hover{
+    border: 1px solid greenyellow;
+}
+button{
+    background-color: green;
+    border-radius:10px;
+    color: white;
+}
+img{
+    border-radius: 10px;
+}
+button:hover{
+    background-color: greenyellow;
+    border-radius: 10px;
+    color: black;
+}
